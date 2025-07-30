@@ -1,0 +1,12 @@
+{
+  "version": "1.3.1beta",
+  "buildNumber": 168,
+  "apkUrl": "https://github.com/GraunMaster/Live-Arcade/releases/download/v1.0.0/LiveaArcadeV1.3.1beta.apk",
+  "appName": "LiveArcade",
+  "versionType": "stable",
+  "changelog": "Initial release",
+  "releaseDate": "2025-07-30",
+  "fileSize": 0,
+  "isCritical": false,
+  "minSdkVersion": 23
+}

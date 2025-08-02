@@ -4,9 +4,9 @@
   "apkUrl": "https://github.com/GraunMaster/Live-Arcade/releases/download/V1.3.1beta/app-debug.apk",
   "appName": "LiveArcade",
   "versionType": "beta",
-  "changelog": "Beta release with new features and fixes",
-  "releaseDate": "2025-07-30",
-  "fileSize": 0,
+  "changelog": "Добавлено настройки в приложения и обновления",
+  "releaseDate": "2025-08-02",
+  "fileSize": 18.88,
   "isCritical": false,
-  "minSdkVersion": 21
+  "minSdkVersion": 23
 }
